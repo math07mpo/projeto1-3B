@@ -1,9 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
 
 :root{
---cor-de-fundo:#1E1E1E;
+--cor-de-fundo:#ffffff;
 --verde:#6FFF57;
---branco:#FFFFFF; 
+--branco:#000000; 
 --botao-ativo:#3A375E;
 --botao-inativo: rgba(58,54,55,94,0.5);
 --texto-fundo: rgba(58,55,94,0.3);
@@ -26,5 +26,5 @@ body{
    max-width: 1200px;
    width: 100%;
    margin: 0 auto;
-}
+}d
 
