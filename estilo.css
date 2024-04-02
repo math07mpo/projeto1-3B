@@ -48,12 +48,13 @@ body{
    border-right: 2px solid var(--botao-ativo);
    border-top: none;
    
-}principal-botoes{
+}
+.principal-botoes{
 display: block;
 }
 
 @media screen and (min-widht:768px){
-   principal-botoes{
+   .principal-botoes{
       display: flex;
    }
    
