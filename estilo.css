@@ -3,7 +3,7 @@
 :root{
 --cor-de-fundo:#1E1E1E;
 --verde:#6FFF57;
---branco:#FFFFFF; 
+--branco:#000000; 
 --botao-ativo:#3A375E;
 --botao-inativo: rgba(58,54,55,94,0.5);
 --texto-fundo: rgba(58,55,94,0.3);
@@ -41,6 +41,11 @@ body{
    justify-content: center;
    align-items: center;
    color: var(--branco);
+   width: 100%;
+   border-bottom: 4px solid var(--botao-ativo);
+   border-left: 2px solid var(--botao-ativo);
+   border-right: 2px solid var(--botao-ativo);
+   border-top: none;
    
 
 
