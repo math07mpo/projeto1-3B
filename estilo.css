@@ -96,5 +96,5 @@ border-radius: 0 0 40px 40px;
    font-size: 28px;
 }
    .aba-conteudo-titulo-secundario{
-      background-color: var(--verde);
+     color: var(--verde);
    }
